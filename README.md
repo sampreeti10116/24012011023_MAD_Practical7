@@ -322,5 +322,18 @@ After completing this practical, the student will be able to:
 - Configure Internet permission.
 - Combine remote API data with local database storage.
 
+
+## Output Screenshots:
+<table>
+    <tr>
+        <td><img width="377" height="836" alt="image" src="https://github.com/user-attachments/assets/58fbd24b-f5aa-466a-9b29-084bd58f0ecf" />
+</td>
+        <td><img width="377" height="837" alt="image" src="https://github.com/user-attachments/assets/2e7b9bdc-c225-416b-a212-2796f5e82301" />
+</td>
+        <td><img width="378" height="835" alt="image" src="https://github.com/user-attachments/assets/bba2d496-34ac-453e-9771-06a288f49708" />
+</td>
+    </tr>
+</table>
+
 ## Conclusion
 Practical-7 demonstrates how an Android application communicates with an Internet-based JSON API, converts the response into Kotlin objects, displays the records using RecyclerView/ListView, and stores the retrieved information in SQLite. It also introduces HttpURLConnection, Kotlin Coroutines, Serializable, Activity-to-Activity data transfer, and location coordinates, providing a foundation for applications that combine web services with local storage.
